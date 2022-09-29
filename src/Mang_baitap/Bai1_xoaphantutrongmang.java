@@ -2,7 +2,7 @@ package Mang_baitap;
 
 import java.util.Scanner;
 
-public class Bai3_xoaphantutrongmang {
+public class Bai1_xoaphantutrongmang {
     public static void main(String[] args) {
         int daySo[] = {1,3,5,7,9};
         Scanner sc = new Scanner(System.in);
